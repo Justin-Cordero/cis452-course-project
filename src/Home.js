@@ -14,7 +14,7 @@ class Home extends Component {
         <br />
         <p>My name is Justin Cordero. I am a Software Engineer at <a href="www.shoprunner.com">ShopRunner / FedEx Dataworks</a></p>
         <p>I am also a student at ECPI University where I am pursuing my bachelor's degree in Computer and Information Science.</p>
-        <p>This is my assignment: Course Project: Single Page Application with Navigation</p>
+        <p>This is my CIS453L Course Project</p>
         <br /><br /><br />
         <p>You can learn more about me and my work on my <a href="https://justincordero.tech">personal website</a></p>
       </div>

@@ -10,6 +10,7 @@ class Contact extends Component {
         <img
           src="https://media.istockphoto.com/photos/open-mailbox-with-letters-on-rural-backgound-picture-id1285800846?b=1&k=20&m=1285800846&s=170667a&w=0&h=XTNubX7I91KkXbAc4KCVa89AzEOhlbaCgt-MIIOzGhs="
           style={{margin: "1rem"}}
+          alt="mailbox"
         />
       </div>
     );
