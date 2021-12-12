@@ -10,7 +10,7 @@ To run this project locally:
 3. Run the application
 
 ```bash
-git clone https://github.com/Justin-Cordero/cis452-course-project.git
+git clone https://github.com/Justin-Cordero/cis453-course-project.git
 # navigate to the project
 npm install # installs dependencies
 npm start # runs the application on localhost:3000
